@@ -1,0 +1,39 @@
+Assignment for Data Analytics Intern
+Description of Assignment:
+
+The objective of this assignment is to analyze datasets related to user behavior,
+cooking preferences, and order trends.
+
+1.Gathering the Data: First, obtain the datasets related to user behavior, cooking preferences, and order trends. These datasets might contain information like user demographics, order history, cooking styles, frequency of orders, and types of dishes.
+
+2.Calculate basic statistics (mean, median, standard deviation, etc.) for numerical columns such as order quantities, spending, and order frequency. This will give you an initial understanding of the data's central tendency and spread.
+
+3.Histograms for order amounts, spending, or cooking preferences.
+  Pie charts to understand the distribution of cooking styles or food types.
+  Line graphs to track trends in orders over time (e.g., daily, weekly).
+
+
+The task involves cleaning and merging the data, analyzing the relationship between
+cooking sessions and user orders, identifying popular dishes, and exploring
+demographic factors that influence user behavior.
+
+
+1.Summarize all findings into a clear, concise report that includes:
+
+Data cleaning and preprocessing steps.
+Key relationships discovered (e.g., cooking frequency vs. order frequency).
+Visualizations of popular dishes and demographic trends.
+Actionable insights and recommendations for improving user engagement and optimizing the cooking and ordering experience.
+
+
+
+Additionally, you will create visualizations to showcase key insights and write a report
+summarizing your findings and business recommendations.
+
+
+already i do report according to given data and visualization of insights data
+
+
+
+
+
